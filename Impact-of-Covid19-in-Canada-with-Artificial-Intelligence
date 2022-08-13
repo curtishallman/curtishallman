@@ -1,0 +1,31 @@
+Learning the Impact of Covid-19 in Canada with Artificial Intelligence
+
+During the early months of 2020 the outbreak of Covid-19
+began and individuals around the world saw changes in their
+daily habits and health. The ‘Learning the Impact of Covid-19
+in Canada with Artificial Intelligence’ research report will
+attempt to identify how different factors influence mental
+health, find possible solutions to help improve mental health,
+and provide information on which machine learning models and
+algorithms are best for predicting mental health outcomes.
+Using machine learning algorithms such as Random Forest and
+Support Vector Machine, inferences can be made on outputs of
+the given data which provide insights into how mental health is
+affected and strategies that can be used to improve one’s mental
+health.
+
+Machine Learning Algorithms Used:
+1. Random Forest (Sci-learn Kit)
+2. Support Vector Machine (Sci-learn Kit)
+3. Naive Bayes (Sci-learn Kit)
+
+Accuracy Achieved: 
+- Substance Abuse: 94% (Random Forest)
+- Alcohol Abuse: 85% (Random Forest)
+- Change in Weekly Habits: 96% (Random Forest)
+
+Datasets used: 
+- Impacts of Covid-19 Mental Health: https://hdl.handle.net/11272.1/AB2/RHP5H5
+- Impacts of Covid-19: https://hdl.handle.net/11272.1/AB2/Y2DNJ5
+- Substance Abuse: https://hdl.handle.net/11272.1/AB2/U5LMHJ
+
